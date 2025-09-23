@@ -47,46 +47,6 @@ Have a small infra in my house for my applications.
 
 [//]: # (wakatime-stats)
 
-### Wakatime Stats
-```
-+--------- All Time Stats for Programming Languages ---------+
-| Programming Languages     | Total Hours                    |
-+---------------------------+--------------------------------+
-| C#                        |       1,369 hrs 26 mins        |
-| PHP                       |        517 hrs 33 mins         |
-| TypeScript                |        173 hrs 47 mins         |
-| Binary                    |        123 hrs 55 mins         |
-| HTML                      |         91 hrs 33 mins         |
-+---------------------------+--------------------------------+
-
-
-+---------------- All Time Stats for Editors ----------------+
-| Editors                   | Total Hours                    |
-+---------------------------+--------------------------------+
-| Visual Studio             |       1,536 hrs 30 mins        |
-| VS Code                   |       1,074 hrs 51 mins        |
-| Sublime Text              |         25 hrs 53 mins         |
-| Rider                     |         12 hrs 22 mins         |
-| IntelliJ IDEA             |         10 hrs 13 mins         |
-| Cursor                    |         7 hrs 40 mins          |
-| PhpStorm                  |         6 hrs 34 mins          |
-| DBeaver                   |         3 hrs 49 mins          |
-| Eclipse                   |         3 hrs 11 mins          |
-| Chrome                    |            59 mins             |
-| PyCharm                   |            30 mins             |
-| Android Studio            |            25 mins             |
-+---------------------------+--------------------------------+
-
-
-+----------- All Time Stats for Operating Systems -----------+
-| Operating Systems         | Total Hours                    |
-+---------------------------+--------------------------------+
-| Windows                   |       2,456 hrs 36 mins        |
-| Linux                     |        197 hrs 59 mins         |
-| Mac                       |         28 hrs 45 mins         |
-+---------------------------+--------------------------------+
-```
-
 [//]: # (end-wakatime-stats)
 
 
