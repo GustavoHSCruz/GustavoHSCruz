@@ -18,7 +18,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=plastic)](https://wa.me/5543988572527)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:gustavo_cruz08@hotmail.com?subject=Contact%20From%20Github)
 
-I'm a Computer Engineer from Brazil .png).
+I'm a Computer Engineer from Brazil.
 
 26 Years old
 
@@ -27,6 +27,17 @@ Focused on Backend development using C#.
 Actually developing a lawyers Saas and my first game.
 
 Have a small infra in my house for my applications.
+
+## 🖥️ Technologies
+
+| Backend 	| Frontend 	| DB 	| Tests 	| Others 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|
+| ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%239179E4.svg?style=plastic&logo=cshrp&logoColor=white) 	| ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 	| ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	| ![xUnit](https://img.shields.io/badge/xUnit-%239179E4.svg?style=plastic&logoColor=white) 	| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff) 	|
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=fff) 	| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000) 	| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff) 	| ![SpecFlow](https://img.shields.io/badge/SpecFlow-%239179E4.svg?style=plastic&logoColor=white) 	| ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=fff) 	|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=fff) 	| ![CSS](https://img.shields.io/badge/CSS-639?style=plastic&logo=css&logoColor=fff) 	| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) 	|  	| ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=plastic&logo=aws&logoColor=white) 	|
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 	| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=fff) 	| ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) 	|  	| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 	|
+| ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 	|  	|  	|  	| ![Ollama](https://img.shields.io/badge/Ollama-fff?style=plastic&logo=ollama&logoColor=000) 	|
+|  	|  	|  	|  	| ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) 	|
 
 ## <img src="assets/gifs/Clock.gif" width='30px'> Wakatime Stats
 
