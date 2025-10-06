@@ -13,7 +13,7 @@
 
 ## <img src="assets/gifs/about_me.gif" width='30px'> About me
 
-<a href="https://gcruz.geg.dev.br"><img src='https://img.shields.io/badge/site-online-%23.svg?style=plastic&color=green'></img></a>
+<a href="https://gcruz.geg.dev.br" target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/site-online-%23.svg?style=plastic&color=green'></img></a>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=plastic)](https://www.linkedin.com/in/gusttavocruz/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=plastic)](https://wa.me/5543988572527)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:gustavo_cruz08@hotmail.com?subject=Contact%20From%20Github)
