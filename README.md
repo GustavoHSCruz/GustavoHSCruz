@@ -52,19 +52,19 @@ Have a small infra in my house for my applications.
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| C#                        |       1,385 hrs 29 mins        |
+| C#                        |       1,385 hrs 55 mins        |
 | PHP                       |        517 hrs 33 mins         |
 | TypeScript                |        177 hrs 29 mins         |
 | Binary                    |        126 hrs 27 mins         |
-| HTML                      |         94 hrs 21 mins         |
+| HTML                      |         94 hrs 36 mins         |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Visual Studio             |        1,559 hrs 2 mins        |
-| VS Code                   |       1,098 hrs 16 mins        |
+| Visual Studio             |       1,559 hrs 27 mins        |
+| VS Code                   |       1,099 hrs 10 mins        |
 | Sublime Text              |         25 hrs 53 mins         |
 | Rider                     |         12 hrs 22 mins         |
 | IntelliJ IDEA             |         10 hrs 13 mins         |
@@ -81,13 +81,15 @@ Have a small infra in my house for my applications.
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |       2,495 hrs 47 mins        |
+| Windows                   |        2,497 hrs 7 mins        |
 | Linux                     |        205 hrs 12 mins         |
 | Mac                       |         28 hrs 45 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
