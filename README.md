@@ -64,7 +64,7 @@ Have a small infra in my house for my applications.
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
 | Visual Studio             |       1,559 hrs 27 mins        |
-| VS Code                   |       1,110 hrs 35 mins        |
+| VS Code                   |       1,112 hrs 38 mins        |
 | Sublime Text              |         25 hrs 53 mins         |
 | Rider                     |         12 hrs 22 mins         |
 | IntelliJ IDEA             |         10 hrs 13 mins         |
@@ -82,12 +82,14 @@ Have a small infra in my house for my applications.
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
 | Windows                   |       2,500 hrs 19 mins        |
-| Linux                     |        213 hrs 25 mins         |
+| Linux                     |        215 hrs 28 mins         |
 | Mac                       |         28 hrs 45 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
