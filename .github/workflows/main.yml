@@ -3,7 +3,7 @@ name: Wakatime Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */7 * *'  # Run at midnight every day
+    - cron: '0 0 * * 0'  # Run only on sundays
 
 jobs:
   update-readme-with-wakatime-stats:
@@ -20,6 +20,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           GH_TOKEN: ${{ secrets.GH_WAKATIME_STATS }}
-          TABLE_STYLE: 'default'       # optional: default, box, box-double
-          MAX_LANGUAGES: '5'           # optional
-          WAKATIME_TIME_RANGE: 'all_time'  # optional
+          TABLE_STYLE: 'default'
+          MAX_LANGUAGES: '5'           
+          WAKATIME_TIME_RANGE: 'all_time'  
