@@ -52,11 +52,11 @@ Have a small infra in my house for my applications.
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| C#                        |       1,391 hrs 26 mins        |
+| C#                        |       1,396 hrs 38 mins        |
 | PHP                       |        517 hrs 33 mins         |
 | TypeScript                |        181 hrs 29 mins         |
 | Binary                    |        126 hrs 27 mins         |
-| HTML                      |         97 hrs 22 mins         |
+| HTML                      |         97 hrs 53 mins         |
 +---------------------------+--------------------------------+
 
 
@@ -64,9 +64,9 @@ Have a small infra in my house for my applications.
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
 | Visual Studio             |        1,565 hrs 2 mins        |
-| VS Code                   |       1,125 hrs 39 mins        |
+| VS Code                   |       1,126 hrs 16 mins        |
 | Sublime Text              |         25 hrs 53 mins         |
-| Rider                     |         12 hrs 22 mins         |
+| Rider                     |         17 hrs 45 mins         |
 | IntelliJ IDEA             |         10 hrs 13 mins         |
 | Cursor                    |         7 hrs 40 mins          |
 | PhpStorm                  |         6 hrs 34 mins          |
@@ -82,12 +82,14 @@ Have a small infra in my house for my applications.
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
 | Windows                   |       2,509 hrs 13 mins        |
-| Linux                     |        225 hrs 10 mins         |
+| Linux                     |        231 hrs 10 mins         |
 | Mac                       |         28 hrs 45 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
