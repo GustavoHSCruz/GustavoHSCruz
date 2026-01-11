@@ -52,23 +52,23 @@ Have a small infra in my house for my applications.
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| C#                        |       1,417 hrs 20 mins        |
-| PHP                       |        517 hrs 33 mins         |
+| C#                        |        1,425 hrs 4 mins        |
+| PHP                       |        609 hrs 43 mins         |
 | TypeScript                |        181 hrs 29 mins         |
-| Binary                    |        126 hrs 27 mins         |
-| HTML                      |         98 hrs 3 mins          |
+| Binary                    |        126 hrs 54 mins         |
+| HTML                      |        100 hrs 38 mins         |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Visual Studio             |        1,565 hrs 2 mins        |
-| VS Code                   |       1,127 hrs 14 mins        |
-| Rider                     |         39 hrs 30 mins         |
+| Visual Studio             |       1,572 hrs 47 mins        |
+| VS Code                   |       1,222 hrs 47 mins        |
+| Rider                     |         39 hrs 32 mins         |
 | Sublime Text              |         25 hrs 53 mins         |
 | IntelliJ IDEA             |         10 hrs 13 mins         |
-| Cursor                    |         7 hrs 40 mins          |
+| Cursor                    |         7 hrs 51 mins          |
 | PhpStorm                  |         6 hrs 34 mins          |
 | DBeaver                   |         3 hrs 49 mins          |
 | Eclipse                   |         3 hrs 11 mins          |
@@ -81,13 +81,15 @@ Have a small infra in my house for my applications.
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |       2,509 hrs 13 mins        |
-| Linux                     |        253 hrs 54 mins         |
+| Windows                   |       2,613 hrs 19 mins        |
+| Linux                     |         254 hrs 7 mins         |
 | Mac                       |         28 hrs 45 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
