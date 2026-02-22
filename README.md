@@ -56,7 +56,7 @@ Have a small infra in my house for my applications.
 | PHP                       |        609 hrs 43 mins         |
 | TypeScript                |        181 hrs 29 mins         |
 | Binary                    |        126 hrs 54 mins         |
-| HTML                      |        101 hrs 32 mins         |
+| HTML                      |         103 hrs 6 mins         |
 +---------------------------+--------------------------------+
 
 
@@ -64,7 +64,7 @@ Have a small infra in my house for my applications.
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
 | Visual Studio             |       1,572 hrs 47 mins        |
-| VS Code                   |       1,224 hrs 33 mins        |
+| VS Code                   |       1,236 hrs 55 mins        |
 | Rider                     |         42 hrs 53 mins         |
 | Sublime Text              |         25 hrs 53 mins         |
 | IntelliJ IDEA             |         10 hrs 13 mins         |
@@ -82,12 +82,14 @@ Have a small infra in my house for my applications.
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
 | Windows                   |       2,613 hrs 19 mins        |
-| Linux                     |        259 hrs 14 mins         |
+| Linux                     |        271 hrs 36 mins         |
 | Mac                       |         28 hrs 45 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
