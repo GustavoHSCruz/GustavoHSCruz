@@ -52,11 +52,11 @@ Have a small infra in my house for my applications.
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| C#                        |       1,435 hrs 35 mins        |
+| C#                        |       1,439 hrs 17 mins        |
 | PHP                       |        609 hrs 43 mins         |
-| TypeScript                |        181 hrs 39 mins         |
+| TypeScript                |        183 hrs 12 mins         |
 | Binary                    |        126 hrs 54 mins         |
-| HTML                      |        103 hrs 22 mins         |
+| HTML                      |        103 hrs 26 mins         |
 +---------------------------+--------------------------------+
 
 
@@ -64,7 +64,7 @@ Have a small infra in my house for my applications.
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
 | Visual Studio             |       1,572 hrs 47 mins        |
-| VS Code                   |       1,248 hrs 49 mins        |
+| VS Code                   |       1,258 hrs 16 mins        |
 | Rider                     |         42 hrs 53 mins         |
 | Sublime Text              |         25 hrs 53 mins         |
 | IntelliJ IDEA             |         10 hrs 13 mins         |
@@ -82,12 +82,14 @@ Have a small infra in my house for my applications.
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
 | Windows                   |       2,613 hrs 19 mins        |
-| Linux                     |        283 hrs 29 mins         |
+| Linux                     |        292 hrs 57 mins         |
 | Mac                       |         28 hrs 45 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
