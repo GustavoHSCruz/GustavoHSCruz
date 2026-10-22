@@ -1,252 +1,56 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Gustavo Cruz, Software Engineer at DXC Technology, Londrina, Brazil" src="assets/header-light.svg" width="660">
+</picture></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo+Play&duration=1500&size=30&pause=1000&color=FF8800&center=true&vCenter=true&multiline=true&width=435&height=85&lines=%2F%2F+Hi+there.+I'm+Gustavo+Cruz;%2F*+Backend+Developer+*%2F)](https://git.io/typing-svg)
+<p>
+  <a href="https://gcruz.geg.dev.br">Website</a> ·
+  <a href="https://www.linkedin.com/in/gusttavocruz/">LinkedIn</a> ·
+  <a href="mailto:gustavo_cruz08@hotmail.com?subject=Contact%20from%20GitHub">Email</a> ·
+  <a href="https://calendly.com/gustavo_cruz08">Book a call</a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Nine years in tech, five of them building software. At DXC I own the maintenance and evolution of critical systems for a large logistics operator, from the business rule all the way to production. Before development I spent four years in infrastructure, so I care about what happens after the deploy.
 
+### Building
 
-![counter](https://hit.yhype.me/github/profile?account_id=66931989)
-![views](https://komarev.com/ghpvc/?username=gustavoHSCruz&color=orange&style=plastic&label=Profile+Views&abbreviated=true)
+<p>
+  <a href="https://steamprofiler.org"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/steamprofiler-dark.svg">
+    <img alt="SteamProfiler: your Steam library, drawn to scale" src="assets/steamprofiler-light.svg" width="326">
+  </picture></a>
+  <a href="https://github.com/GustavoHSCruz/VPNGo"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/vpngo-dark.svg">
+    <img alt="vpngo: per-app WireGuard routing" src="assets/vpngo-light.svg" width="326">
+  </picture></a>
+</p>
 
+### Contributing
 
-## <img src="assets/gifs/about_me.gif" width='30px'> About me
+<p>
+  <a href="https://github.com/rehan-remade/universal-modder/pulls?q=is%3Apr+author%3AGustavoHSCruz"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-modder-dark.svg">
+    <img alt="universal-modder: 2 merged pull requests" src="assets/contrib-modder-light.svg" width="215">
+  </picture></a>
+  <a href="https://github.com/ran-j/PS2Recomp/pulls?q=is%3Apr+author%3AGustavoHSCruz"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-ps2recomp-dark.svg">
+    <img alt="PS2Recomp: 3 open pull requests" src="assets/contrib-ps2recomp-light.svg" width="215">
+  </picture></a>
+  <a href="https://github.com/guilhermeSDB/Orbe/pull/1"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-orbe-dark.svg">
+    <img alt="Orbe: 1 open pull request" src="assets/contrib-orbe-light.svg" width="215">
+  </picture></a>
+</p>
 
-<a href="https://gcruz.geg.dev.br" target="_blank" rel="noopener noreferrer"><img src='https://img.shields.io/badge/site-online-%23.svg?style=plastic&color=green'></img></a>
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=plastic)](https://www.linkedin.com/in/gusttavocruz/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=plastic)](https://wa.me/5543988572527)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:gustavo_cruz08@hotmail.com?subject=Contact%20From%20Github)
+### Stack
 
-I'm a Computer Engineer from Brazil.
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,postgres,redis,docker,linux,aws,cloudflare&perline=10" alt="C#, .NET, Python, TypeScript, PostgreSQL, Redis, Docker, Linux, AWS, Cloudflare" height="40">
 
-26 Years old
-
-Focused on Backend development using C#.
-
-Actually developing a lawyers Saas and my first game.
-
-Have a small infra in my house for my applications.
-
-## 🖥️ Technologies
-
-| Backend 	| Frontend 	| DB 	| Tests 	| Others 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|
-| ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%239179E4.svg?style=plastic&logo=cshrp&logoColor=white) 	| ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 	| ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	| ![xUnit](https://img.shields.io/badge/xUnit-%239179E4.svg?style=plastic&logoColor=white) 	| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff) 	|
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=fff) 	| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000) 	| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff) 	| ![SpecFlow](https://img.shields.io/badge/SpecFlow-%239179E4.svg?style=plastic&logoColor=white) 	| ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=fff) 	|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=fff) 	| ![CSS](https://img.shields.io/badge/CSS-639?style=plastic&logo=css&logoColor=fff) 	| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) 	|  	| ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=plastic&logo=aws&logoColor=white) 	|
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 	| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=fff) 	| ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) 	|  	| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 	|
-| ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 	|  	|  	|  	| ![Ollama](https://img.shields.io/badge/Ollama-fff?style=plastic&logo=ollama&logoColor=000) 	|
-|  	|  	|  	|  	| ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) 	|
-
-## <img src="assets/gifs/Clock.gif" width='30px'> Wakatime Stats
-
-[![wakatime](https://wakatime.com/badge/user/4c730ea3-d84a-4f1b-9f91-197a27765c9f.svg)](https://wakatime.com/@4c730ea3-d84a-4f1b-9f91-197a27765c9f)
+### This week
 
 <!--START_SECTION:waka-->
-
-[//]: # (wakatime-stats)
-
-### Wakatime Stats
-```
-+--------- All Time Stats for Programming Languages ---------+
-| Programming Languages     | Total Hours                    |
-+---------------------------+--------------------------------+
-| C#                        |        1,443 hrs 1 min         |
-| PHP                       |        609 hrs 43 mins         |
-| TypeScript                |        185 hrs 22 mins         |
-| Binary                    |        126 hrs 54 mins         |
-| HTML                      |        103 hrs 33 mins         |
-+---------------------------+--------------------------------+
-
-
-+---------------- All Time Stats for Editors ----------------+
-| Editors                   | Total Hours                    |
-+---------------------------+--------------------------------+
-| Visual Studio             |       1,572 hrs 47 mins        |
-| VS Code                   |       1,267 hrs 56 mins        |
-| Rider                     |         42 hrs 53 mins         |
-| Sublime Text              |         25 hrs 53 mins         |
-| IntelliJ IDEA             |         10 hrs 13 mins         |
-| Cursor                    |         7 hrs 51 mins          |
-| PhpStorm                  |         6 hrs 34 mins          |
-| DBeaver                   |         3 hrs 49 mins          |
-| Eclipse                   |         3 hrs 11 mins          |
-| Chrome                    |            59 mins             |
-| PyCharm                   |            30 mins             |
-| Android Studio            |            25 mins             |
-+---------------------------+--------------------------------+
-
-
-+----------- All Time Stats for Operating Systems -----------+
-| Operating Systems         | Total Hours                    |
-+---------------------------+--------------------------------+
-| Windows                   |       2,613 hrs 19 mins        |
-| Linux                     |        302 hrs 37 mins         |
-| Mac                       |         28 hrs 45 mins         |
-+---------------------------+--------------------------------+
-```
-
-[//]: # (end-wakatime-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--END_SECTION:waka-->
 
 </div>
-
-
-<!--
-**GustavoHSCruz/GustavoHSCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
