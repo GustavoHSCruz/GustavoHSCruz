@@ -51,6 +51,18 @@ Nine years in tech, five of them building software. At DXC I own the maintenance
 ### This week
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 15 hrs 55 mins
+
+Markdown                   4 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+JavaScript                 4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+Python                     3 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Other                      2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Lua                        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Razor                      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
