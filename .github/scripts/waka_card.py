@@ -57,8 +57,10 @@ def hm(seconds):
 
 
 def group(langs):
-    langs = sorted(langs, key=lambda l: -l[1])
-    top, rest = langs[:MAX_LANGS], sum(s for _, s in langs[MAX_LANGS:])
+    # WakaTime reports its own "Other"; fold it into ours so it shows once, last.
+    other = sum(s for n, s in langs if n == "Other")
+    langs = sorted((l for l in langs if l[0] != "Other"), key=lambda l: -l[1])
+    top, rest = langs[:MAX_LANGS], other + sum(s for _, s in langs[MAX_LANGS:])
     if rest:
         top.append(("Other", rest))
     return top
@@ -102,7 +104,19 @@ def card(t, langs):
 
 
 def color(t, name):
-    return t["other"] if name == "Other" else COLORS.get(name, t["other"])
+    c = t["other"] if name == "Other" else COLORS.get(name, t["other"])
+    return lift(c) if t is THEMES["dark"] else c
+
+
+def lift(hex_color):
+    # Some Linguist colours (Lua, Markdown) are near-black navy and vanish on the
+    # dark panel; mix those towards white until they read.
+    r, g, b = (int(hex_color[i:i + 2], 16) for i in (1, 3, 5))
+    lum = (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255
+    if lum >= 0.25:
+        return hex_color
+    k = 0.45
+    return "#{:02x}{:02x}{:02x}".format(*(round(v + (255 - v) * k) for v in (r, g, b)))
 
 
 def svg(t, inner, h):
