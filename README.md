@@ -2,7 +2,7 @@
 
 <p><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Gustavo Cruz, Software Engineer at DXC Technology, Londrina, Brazil" src="assets/header-light.svg" width="660">
+  <img alt="Gustavo Cruz, Senior Software Engineer at DXC Technology, Londrina, Brazil" src="assets/header-light.svg" width="660">
 </picture></p>
 
 <p>
@@ -50,7 +50,9 @@ Nine years in tech, five of them building software. At DXC I own the maintenance
 
 ### This week
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/waka-dark.svg">
+  <img alt="Coding time over the last 7 days, by language, from WakaTime" src="assets/waka-light.svg" width="660">
+</picture>
 
 </div>

@@ -1,4 +1,4 @@
-name: WakaTime stats
+name: WakaTime card
 
 on:
   workflow_dispatch:
@@ -9,14 +9,22 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
-    name: Update README with WakaTime stats
+  update-card:
+    name: Redraw the WakaTime card
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.1
-        with:
+      - uses: actions/checkout@v4
+
+      - name: Draw card
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 6
-          SHOW_TOTAL: true
-          COMMIT_MESSAGE: 'chore: update WakaTime stats'
+        run: python3 .github/scripts/waka_card.py
+
+      - name: Commit if changed
+        run: |
+          git add assets/waka-*.svg
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898233+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update WakaTime card"
+          git push
