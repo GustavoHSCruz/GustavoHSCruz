@@ -25,6 +25,10 @@ Nine years in tech, five of them building software. At DXC I own the maintenance
     <source media="(prefers-color-scheme: dark)" srcset="assets/vpngo-dark.svg">
     <img alt="vpngo: per-app WireGuard routing" src="assets/vpngo-light.svg" width="326">
   </picture></a>
+  <a href="https://github.com/GeGLab/Annoy.Client"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/annoy-dark.svg">
+    <img alt="annoy: per-app WireGuard routing" src="assets/annoy-light.svg" width="326">
+  </picture></a>
 </p>
 
 ### Contributing
